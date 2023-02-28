@@ -1,0 +1,80 @@
+header{
+    text-align: center;
+}
+.a{
+    height: 700px;
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    background-image: url(./jane.jpg);
+    margin-left: 150px;
+    background-size: 100%;
+
+}
+.b{
+    color: rgb(10, 7, 1);
+
+}
+.e{
+    width: 600px;
+    padding-left: 200px;
+    margin-left: px;
+}
+.f{
+    margin-left:px;
+    width: 600px;
+}
+.ab{
+    display: flex;
+    justify-content: space-between;
+}
+.d{
+    text-align: center;
+}
+.acd{
+    display: flex;
+    gap: 50px;
+}
+.abcd{
+    display: flex;
+}
+.duycuong{
+    width: 450px;
+    margin-left: 50px;
+    
+}
+.pank{
+    color: aliceblue
+
+}
+.duyc{
+    background-color: black;
+}
+.ar{
+    margin-top: 60px;
+    font-size: larger;
+    background-color: black;
+    color: antiquewhite;
+    border: 2px solid black;
+}
+.ag{
+    display: flex;
+    gap: 20px;
+}
+.csss{
+    height: 140px;
+    text-align: center;
+    padding-top: 100px;
+}
+.acde{
+    display: flex;
+    gap: 30px;
+    height: 120px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto ;
+    width: 300px;
+    padding-left: 100px;
+    gap: 20px;
+}
