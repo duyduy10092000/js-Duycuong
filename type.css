@@ -12,7 +12,7 @@ header{
 
 }
 .b{
-    color: rgb(10, 7, 1);
+    color: rgb(248, 247, 245);
 
 }
 .e{
@@ -49,6 +49,7 @@ header{
 }
 .duyc{
     background-color: black;
+    margin-top: 80px;
 }
 .ar{
     margin-top: 60px;

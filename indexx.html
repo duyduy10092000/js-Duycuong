@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #Myimage{
+        margin-left:10%;
+        border-radius: 20px 20px 20px 20px;
+        border: 2px solid black;
+    }
+    .a{
+        display: flex;
+        justify-content: space-around;
+        padding-top: 200px;
+    }
+</style>
+<body>
+    <h1></h1>
+    <h2> số thứ tự</h2> 
+    <img id="Myimage" src="./avatar_hat.jpg" alt="photo" style="width: 1300px; height: 600px;">
+    <div class="a">
+    <button onclick="document.getElementById('Myimage').src='./jeans.jpg' ">Click me !!!</button>
+    <button onclick="document.getElementById('Myimage').src='./girl.jpg' ">Click me left !!!</button>
+    <button onclick="document.getElementById('Myimage').src='./runway.jpg' ">Click me right !!!</button>
+    </div>
+
+</body>
+</html>
